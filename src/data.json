@@ -1,0 +1,93 @@
+{
+    "profiles":[
+       {
+            "basics":{
+
+                "name":"Naveen ",
+                "email":"navenvalluri1234@gmail.com",
+                "mobile":"+91 9502982499"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"9.2",
+                    "institute":"Sri srinivasa high school"
+                },
+                {
+                    "degree":"diploma",
+                    "percentage":"80.5",
+                    "institute":"Government.Polytechnic Vijayawada"
+                },
+                {
+                    "degree":"B.Tech",
+                    "percentage":"7.5",
+                    "institute":"VVIT"
+                }
+            ],
+            "Skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c+","java","python","ruby"]
+                },
+                {
+                    "type":"web technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"Frameworks & Libraries",
+                    "values":["ReactJs"]
+                },
+                {
+                    "type":"Operating Systems",
+                    "values":["Windows","Linux"]
+                }
+            ]
+        
+       },
+       
+       {
+        "basics":{
+
+            "name":"mahesh",
+            "email":"maheshreddy36886@gmail.com",
+            "mobile":"+91 9908087887"
+        },
+        "education":[
+            {
+                "degree":"S.S.C",
+                "percentage":"7.7",
+                "institute":"Sri chaitanya school"
+            },
+            {
+                "degree":"intermedate (MPC)",
+                "percentage":"80.6",
+                "institute":"sri chaitnaya junior college"
+            },
+            {
+                "degree":"B.Tech",
+                "percentage":"6.8",
+                "institute":"VVIT"
+            }
+        ],
+        "Skills":[
+            {
+                "type":"programming languages",
+                "values":["c","c+","java","python","ruby"]
+            },
+            {
+                "type":"web technologies",
+                "values":["HTML","CSS","JavaScript"]
+            },
+            {
+                "type":"Frameworks & Libraries",
+                "values":["ReactJs"]
+            },
+            {
+                "type":"Operating Systems",
+                "values":["Windows","Linux"]
+            }
+        ]
+        
+       }
+    ]
+}
